@@ -1,0 +1,33 @@
+.body{background-color: rgb(245, 231, 220);
+}
+.firstDivision{
+    border:2px solid hsl(27, 100%, 50%);
+    display:flex;
+    /* justify-content: space-between; */
+}
+.F1{
+    width:15%;
+    border:2px solid brown;
+}
+.h1{
+    width:70%;
+    border:2px solid brown;
+}
+.F2{
+    width:15%;
+    border:2px solid red;
+
+}
+.Mah{
+    color: orange;
+    text-align: center;
+    text-align: underline;
+    font-size: 120px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-seri;
+    font-style: normal;
+    letter-spacing: 20px;
+}
+.golden{
+    color: blueviolet;
+    text-align: center;
+}
